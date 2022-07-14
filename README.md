@@ -6,5 +6,6 @@ This data includes magnetic resonance scans from 37 patients after bariatric sur
 [diagram_v2.pdf](https://github.com/DomV1/PancreasMRData/files/9115204/diagram_v2.pdf)
 
 # Data
+Uploading in process.
 Will add more details shortly.
 
